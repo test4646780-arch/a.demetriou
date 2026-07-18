@@ -47,7 +47,7 @@ Currently pursuing a B.Sc. in Cybersecurity while continuously expanding practic
 ## 💼 Professional Experience
 
 ### **Cybersecurity & OSINT Specialist | IT Detective**
-*Freelance* | *2023 – Present*[cite: 1]
+*Freelance* | *2023 – Present*
 * Conduct digital investigations using OSINT methodologies.
 * Analyze digital footprints and online threat activity.
 * Collect, verify, and correlate information from multiple intelligence sources to prepare analytical reports supporting investigations.
