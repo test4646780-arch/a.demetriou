@@ -86,3 +86,5 @@ Currently pursuing a B.Sc. in Cybersecurity while continuously expanding practic
 * **Other:** Licensed Private Detective (MSWiA) | Google Project Management Professional Certificate | EASA Remote Pilot Certificate A1/A2/A3
 *  **SANS Institute:** Cybersecurity Training & Hands-on Lab Materials (In Progress / Continuous Learning)
 * **Cisco Networking Academy:** Network Defense, CyberThreat Management & Foundational Security Training (Skills For All)
+* **Harvard University (edX):** PredictionX Series & Healthcare Information Systems Research (Data Analysis & statistics)
+* **Business, Management & PM
