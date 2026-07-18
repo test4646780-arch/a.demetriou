@@ -84,5 +84,5 @@ Currently pursuing a B.Sc. in Cybersecurity while continuously expanding practic
 * **Cybersecurity:** Google Cybersecurity Professional Certificate | Cisco Networking Academy - Cybersecurity Defense Analyst | Certified Cybersecurity Expert (Cyberium Academy) | SOC Operator Training | Junior Cybersecurity Specialist (HackerU)
 * **OSINT & AI:** Advanced OSINT Program | Cyberstarter AI Program (Sekurak/Securitum) | Python & Machine Learning
 * **Other:** Licensed Private Detective (MSWiA) | Google Project Management Professional Certificate | EASA Remote Pilot Certificate A1/A2/A3
-* * **SANS Institute:** Cybersecurity Training & Hands-on Lab Materials (In Progress / Continuous Learning)
+*  **SANS Institute:** Cybersecurity Training & Hands-on Lab Materials (In Progress / Continuous Learning)
 * **Cisco Networking Academy:** Network Defense, CyberThreat Management & Foundational Security Training (Skills For All)
