@@ -1,3 +1,4 @@
+![Anna Roznowicz - Wizytówka](https://raw.githubusercontent.com/test4646780-arch/annaroznowicz/main/1000137446.jpg)
 
 # A. Roznowicz
 **Cybersecurity Analyst | OSINT & Threat Intelligence | Digital Investigations | AI Security**
