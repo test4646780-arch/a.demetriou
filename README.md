@@ -1,11 +1,11 @@
-![Anna Roznowicz - Wizytówka](https://raw.githubusercontent.com/test4646780-arch/annaroznowicz/main/1000137446.jpg)
+![A. Demetriu  - Wizytówka](https://raw.githubusercontent.com/test4646780-arch/annaroznowicz/main/1000137446.jpg)
 
-# A. Roznowicz
+# A. Demetriou
 **Cybersecurity Analyst | OSINT & Threat Intelligence | Digital Investigations | AI Security**
 
-📍 Masovian Voivodeship, Poland (Remote / Hybrid)  
-📧 ttech8547@gmail.com | 📱 +48 604 350 775  
-💼 https://www.linkedin.com/feed/ | 🌐 https://soloist.ai/humanlayersecuritytesting / https://soloist.ai/alexademetrioudetective
+📍 Masovian Voivodeship, Berlin (Remote / Hybrid)  
+📧 cortex.extent840@passinbox.com| 📱 +48 604 350 775  
+💼 https://www.linkedin.com/feed/ | 🌐 https://soloist.ai/humanlayersecuritytesting / https://soloist.ai/alexademetrioudetective / https://admetriou-intel-labs.base44.app/
 
 ---
 
